@@ -3,6 +3,6 @@
     void closeSkey()
     {
         system("cls");
-        cout<<"Cerrando SKEY..."<<endl;
+        printf("\n Cerrando Skey...");
     }
 #endif // CLOSEPROGRAMM_H_INCLUDED
