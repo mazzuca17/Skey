@@ -1,0 +1,145 @@
+# depslib dependency file v1.0
+1600491884 source:c:\users\mati12\desktop\skeyv2\src\classpassword.cpp
+	"classPassword.h"
+	<iostream>
+
+1600489510 c:\users\mati12\desktop\skeyv2\include\classpassword.h
+	<iostream>
+	<conio.h>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1600492238 source:c:\users\mati12\desktop\skeyv2\src\classuser.cpp
+	"classUser.h"
+	"classPassword.h"
+	"passwordAuxiliar.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1600488189 c:\users\mati12\desktop\skeyv2\include\classuser.h
+	<iostream>
+	<conio.h>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1600223357 source:c:\users\mati12\desktop\skeyv2\main.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"design/principalmenu.h"
+	"closeProgramm.h"
+	"login/menuPrincipal.h"
+	"login/welcome.h"
+	"register/register.h"
+	"classPassword.h"
+	"classUser.h"
+
+1600095780 c:\users\mati12\desktop\skeyv2\include\design\principalmenu.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1600094743 c:\users\mati12\desktop\skeyv2\include\closeprogramm.h
+
+1600095808 c:\users\mati12\desktop\skeyv2\include\login\login.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1600485985 c:\users\mati12\desktop\skeyv2\include\register\register.h
+	<iostream>
+	<conio.h>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1600487577 c:\users\mati12\desktop\skeyv2\include\login\menuprincipal.h
+
+1600226039 c:\users\mati12\desktop\skeyv2\include\login\welcome.h
+	<stdio.h>
+	<stdlib.h>
+
+1600488061 c:\users\mati12\desktop\skeyv2\include\passwordauxiliar.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1601602618 source:c:\users\mati12\documents\práctica de programación\lenguaje c\skeyv2\main.cpp
+	<iostream>
+	"design/principalmenu.h"
+	"closeProgramm.h"
+	"login/menuPrincipal.h"
+	"classPassword.h"
+	"classUser.h"
+
+1600095780 c:\users\mati12\documents\práctica de programación\lenguaje c\skeyv2\include\design\principalmenu.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1600094743 c:\users\mati12\documents\práctica de programación\lenguaje c\skeyv2\include\closeprogramm.h
+
+1600487577 c:\users\mati12\documents\práctica de programación\lenguaje c\skeyv2\include\login\menuprincipal.h
+
+1600226039 c:\users\mati12\documents\práctica de programación\lenguaje c\skeyv2\include\login\welcome.h
+	<stdio.h>
+	<stdlib.h>
+
+1600485985 c:\users\mati12\documents\práctica de programación\lenguaje c\skeyv2\include\register\register.h
+	<iostream>
+	<conio.h>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1601602431 c:\users\mati12\documents\práctica de programación\lenguaje c\skeyv2\include\classpassword.h
+	<iostream>
+	<string>
+
+1601358912 c:\users\mati12\documents\práctica de programación\lenguaje c\skeyv2\include\classuser.h
+	<iostream>
+	<string>
+
+1601358975 source:c:\users\mati12\documents\práctica de programación\lenguaje c\skeyv2\src\classuser.cpp
+	"classUser.h"
+	"classPassword.h"
+	"passwordAuxiliar.h"
+	<iostream>
+	<conio.h>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1600488061 c:\users\mati12\documents\práctica de programación\lenguaje c\skeyv2\include\passwordauxiliar.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1601602518 source:c:\users\mati12\documents\práctica de programación\lenguaje c\skeyv2\src\classpassword.cpp
+	"classPassword.h"
+	"classUser.h"
+	<iostream>
+	<conio.h>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
