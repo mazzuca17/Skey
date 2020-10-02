@@ -2,35 +2,34 @@
 #define PRINCIPALMENU_H_INCLUDED
     #include <stdio.h>
 	#include <stdlib.h>
-	#include <iostream>
-    using namespace std;
 	void menu_principal()
 	{
-			cout<<"________________________________________________________________________"<<endl;
-	        cout<<"|BIENVENIDO A SKEY                                                    ||"<<endl;
-	        cout<<"|                                                                     ||"<<endl;
-	        cout<<"|        XXXXXXXXXXXXXXXXXXXXX         | SKEY INC.                    ||"<<endl;
-	        cout<<"|        SISTEMA DE GENERACION         |                              ||"<<endl;
-	        cout<<"|        CODIGOS 'SKEY'                |                              ||"<<endl;
-	        cout<<"|        XXXXXXXXXXXXXXXXXXXXX         |                              ||"<<endl;
-	        cout<<"_______________________________________________________________________ "<<endl;
-	        cout<<"|PARA CONTINUAR, SELECCIONA ALGUNAS DE LAS OPCIONES                   ||"<<endl;
-	        cout<<"|                                                                     ||"<<endl;
-	        cout<<"|        1-Iniciar sesion                                             ||"<<endl;
-	        cout<<"|        2-Crear cuenta                                               ||"<<endl;
-	        cout<<"|        3-Salir                                                      ||"<<endl;
-	        cout<<"________________________________________________________________________"<<endl;
+			printf("\n________________________________________________________________________");
+	        printf("\n|BIENVENIDO A SKEY                                                    ||");
+	        printf("\n|                                                                     ||");
+	        printf("\n|        XXXXXXXXXXXXXXXXXXXXX         | SKEY INC.                    ||");
+	        printf("\n|        SISTEMA DE GENERACION         |                              ||");
+	        printf("\n|        CODIGOS 'SKEY'                |                              ||");
+	        printf("\n|        XXXXXXXXXXXXXXXXXXXXX         |                              ||");
+	        printf("\n_______________________________________________________________________ ");
+	        printf("\n|PARA CONTINUAR, SELECCIONA ALGUNAS DE LAS OPCIONES                   ||");
+	        printf("\n|                                                                     ||");
+	        printf("\n|        1-Iniciar sesion                                             ||");
+	        printf("\n|        2-Crear cuenta                                               ||");
+	        printf("\n|        3-Salir                                                      ||");
+	        printf("\n________________________________________________________________________");
 
-	        cout<<"Opcion: ";
+	        printf("\nOpcion: ");
 	}
 
 	void showError()
 	{
-		cout<<endl;
-		cout<<"______________________________________________________________________"<<endl;
-		cout<<"| SKEY | FATAL ERROR                                                 ||"<<endl;
-		cout<<"______________________________________________________________________"<<endl;
-		cout<<"Ingresaste una opci\242n no valida!\n\n";
+		printf("\n");
+		printf("\n______________________________________________________________________");
+		printf("\n| SKEY | FATAL ERROR                                                 ||");
+		printf("\n______________________________________________________________________");
+		printf("\n");
+		printf("\nIngresaste una opci\242n no valida");
 	}
 
 
